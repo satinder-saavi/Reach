@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+.reach
+reach
+build
+build/*
+build/
+node_modules/
+tls/
+.dockerignore
+Dockerfile
+package.json
