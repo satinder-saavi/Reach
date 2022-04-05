@@ -13,3 +13,13 @@ reach.sh related
 
 ### `./reach init`
 
+
+
+### `vi ~/.gitconfig`
+
+```bash
+[user]
+    name = Username
+    email = example@email.com
+
+```
